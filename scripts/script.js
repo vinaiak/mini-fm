@@ -41,8 +41,26 @@ new Vue({
           artist: ".977 Hip Hop",
           cover: "https://cdn-radiotime-logos.tunein.com/s48940d.png",
           source: "https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ_SC",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          url: "https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ_SC",
           country: "USA",
+          favorited: false
+        },
+        {
+          name: "Hip Hop / Pop / Dance / Rock / Indie",
+          artist: "BBC Radio 1",
+          cover: "https://cdn.onlineradiobox.com/img/l/3/1193.v13.png",
+          source: "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+          url: "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+          country: "UK",
+          favorited: false
+        },
+        {
+          name: "Bollywood / Pop",
+          artist: "Meethi Mirchi Radio",
+          cover: "https://cdn.onlineradiobox.com/img/l/4/74904.v11.png",
+          source: "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8?hdnts=st=1632289604~exp=1632376004~acl=/*~hmac=f909ee87e3533037b63b76b8917a54a8bdda59bff2163061fa2c2e3ad7959d4c",
+          url: "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8?hdnts=st=1632289604~exp=1632376004~acl=/*~hmac=f909ee87e3533037b63b76b8917a54a8bdda59bff2163061fa2c2e3ad7959d4c",
+          country: "India",
           favorited: false
         }
       ],
