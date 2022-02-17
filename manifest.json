@@ -1,0 +1,43 @@
+{
+  "background_color": "#ffffff",
+  "description": "A mini PWA for listening Today's Top Hits.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mini Fm",
+  "orientation": "portrait",
+  "scope": "https://mini-fm.tk/",
+  "short_name": "Mini Fm",
+  "start_url": "https://mini-fm.tk/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [
+    {
+      "src": "/images/ss1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/ss2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  "shortcuts": []
+}
