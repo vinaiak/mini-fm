@@ -49,8 +49,8 @@ new Vue({
           name: "Hip Hop / Pop / Dance / Rock / Indie",
           artist: "BBC Radio 1",
           cover: "https://cdn.onlineradiobox.com/img/l/3/1193.v13.png",
-          source: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
-          url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+          source: "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls",
+          url: "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls",
           country: "UK",
           favorited: false
         },
