@@ -56,10 +56,10 @@ new Vue({
         },
         {
           name: "Bollywood / Pop",
-          artist: "Meethi Mirchi Radio",
-          cover: "https://cdn.onlineradiobox.com/img/l/4/74904.v11.png",
-          source: "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8?hdnts=st=1632289604~exp=1632376004~acl=/*~hmac=f909ee87e3533037b63b76b8917a54a8bdda59bff2163061fa2c2e3ad7959d4c",
-          url: "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8?hdnts=st=1632289604~exp=1632376004~acl=/*~hmac=f909ee87e3533037b63b76b8917a54a8bdda59bff2163061fa2c2e3ad7959d4c",
+          artist: "Radio Mirchi",
+          cover: "https://liveradios.in/wp-content/uploads/RadioMirchi-logo.jpg",
+          source: "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1",
+          url: "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1",
           country: "India",
           favorited: false
         }
