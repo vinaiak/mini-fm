@@ -46,11 +46,11 @@ new Vue({
           favorited: false
         },
         {
-          name: "Hip Hop / Pop / Dance / Rock / Indie",
-          artist: "BBC Radio 1",
-          cover: "https://cdn.onlineradiobox.com/img/l/3/1193.v13.png",
-          source: "https://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls",
-          url: "https://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls",
+          name: "Top 40 & Pop Music",
+          artist: "Capital FM",
+          cover: "https://cdn.onlineradiobox.com/img/l/8/1018.v14.png",
+          source: "https://media-ssl.musicradio.com/Capital",
+          url: "https://media-ssl.musicradio.com/Capital",
           country: "UK",
           favorited: false
         },
