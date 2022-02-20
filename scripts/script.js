@@ -37,6 +37,15 @@ new Vue({
           favorited: false
         },
         {
+          name: "Top 40 & Pop Music",
+          artist: "Capital FM",
+          cover: "https://cdn.onlineradiobox.com/img/l/8/1018.v14.png",
+          source: "https://media-ssl.musicradio.com/Capital",
+          url: "https://media-ssl.musicradio.com/Capital",
+          country: "UK",
+          favorited: false
+        },
+        {
           name: "Hip Hop / R&B",
           artist: ".977 Hip Hop",
           cover: "https://cdn-radiotime-logos.tunein.com/s48940d.png",
@@ -46,12 +55,12 @@ new Vue({
           favorited: false
         },
         {
-          name: "Top 40 & Pop Music",
-          artist: "Capital FM",
-          cover: "https://cdn.onlineradiobox.com/img/l/8/1018.v14.png",
-          source: "https://media-ssl.musicradio.com/Capital",
-          url: "https://media-ssl.musicradio.com/Capital",
-          country: "UK",
+          name: "Hip Hop / R&B",
+          artist: "Hot 108 Jamz",
+          cover: "https://cdn-profiles.tunein.com/s18733/images/logod.png?t=636251",
+          source: "http://hot108jamz.hot108.com:4040/;stream.nsv",
+          url: "http://hot108jamz.hot108.com:4040/;stream.nsv",
+          country: "USA",
           favorited: false
         },
         {
