@@ -58,8 +58,8 @@ new Vue({
           name: "Hip Hop / R&B",
           artist: "Hot 108 Jamz",
           cover: "https://cdn-profiles.tunein.com/s18733/images/logod.png?t=636251",
-          source: "http://hot108jamz.hot108.com:4040/;stream.nsv",
-          url: "http://hot108jamz.hot108.com:4040/;stream.nsv",
+          source: "http://108.61.30.179:4020/",
+          url: "http://108.61.30.179:4020/",
           country: "USA",
           favorited: false
         },
