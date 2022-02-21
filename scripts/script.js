@@ -88,29 +88,6 @@ new Vue({
                 this.isTimerPlaying = false;
             }
         },
-        generateTime() {
-            let width = (100 / this.audio.duration) * this.audio.currentTime;
-            this.barWidth = width + "%";
-            this.circleLeft = width + "%";
-            let durmin = Math.floor(this.audio.duration / 60);
-            let dursec = Math.floor(this.audio.duration - durmin * 60);
-            let curmin = Math.floor(this.audio.currentTime / 60);
-            let cursec = Math.floor(this.audio.currentTime - curmin * 60);
-            if (durmin < 10) {
-                durmin = "0" + durmin;
-            }
-            if (dursec < 10) {
-                dursec = "0" + dursec;
-            }
-            if (curmin < 10) {
-                curmin = "0" + curmin;
-            }
-            if (cursec < 10) {
-                cursec = "0" + cursec;
-            }
-            this.duration = durmin + ":" + dursec;
-            this.currentTime = curmin + ":" + cursec;
-        },
         updateBar(x) {
             let progress = this.$refs.progress;
             let maxduration = this.audio.duration;
